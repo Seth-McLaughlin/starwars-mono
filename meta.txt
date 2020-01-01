@@ -1,0 +1,11 @@
+Contetnts of the game included:
+    
+    1) Gameboard
+    2) 9 player tokens
+    3) 24 Title Deed Cards
+    4) 16 Jedi Training Cards
+    5) 16 Holocron Cards
+    6) 32 TIE Fighters
+    7) 12 X-Wings
+    8) 2 Dice
+    9) 82 Credits
